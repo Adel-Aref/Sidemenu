@@ -1,0 +1,20 @@
+PODS:
+  - BadgeSegmentControl (2.0):
+    - BadgeSwift (~> 5.0)
+  - BadgeSwift (5.0.1)
+
+DEPENDENCIES:
+  - BadgeSegmentControl
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BadgeSegmentControl
+    - BadgeSwift
+
+SPEC CHECKSUMS:
+  BadgeSegmentControl: eb845e3e53785d066737dc460e97b5fc9a1f81df
+  BadgeSwift: 3defa56f504bfb46f2300122c4a565ec9e405c1e
+
+PODFILE CHECKSUM: 9a98306008c73c6d68d291a8d52ac4768c0bd0cd
+
+COCOAPODS: 1.5.3
